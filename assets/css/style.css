@@ -1,0 +1,19 @@
+body {
+    background-color: #fffdd0;
+}
+
+.a1 {
+    font-weight: bold;
+}
+
+.a2 {
+    font-style: italic;
+}
+
+.mark {
+    list-style-type: upper-alpha;
+}
+
+.num {
+    list-style-type: decimal;
+}
